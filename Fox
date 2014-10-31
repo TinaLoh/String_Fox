@@ -1,3 +1,6 @@
 my_string = "The quick brown fox jumps over the lazy dog."
 
 puts my_string.gsub("e", "3").upcase
+
+# works great
+# file should be lowercase, and end in .rb so we know it is Ruby
